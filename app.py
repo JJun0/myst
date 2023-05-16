@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as pit
+import matplotlib.pyplot as plt
 import numpy as np
 
 # bar chart
